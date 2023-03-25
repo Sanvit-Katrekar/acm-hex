@@ -1,8 +1,8 @@
 # Level 1: Git exploitation
 
-This level contains two passwords.
-You need both these passwords to generate the master password.
+This level contains **two passwords**.
+You need both these passwords to generate the **Master Password**.
 
-Find the master password!
+Find the **Master Password!**
 
 The password is: xxxxxxxxxx
