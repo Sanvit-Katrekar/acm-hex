@@ -10,17 +10,17 @@ The password is: xxxxxxxxxx
 
 # Level 2: Linux
 
-The is a reverse engineerting level.
+The is a reverse engineering level.
 1. SSH into the server
 2. Find the executable, hidden somewhere in the server
 3. Reverse engineer the executable to obtain the master password
 
 ### SSH credentials:
-Server: 86.98.127.181
+**Server:** 86.98.127.181
 
-User: acmvenger
+**User:** acmvenger
 
-Password: cl4sh_0f_th3_4cmv3nger5
+**Password:** cl4sh_0f_th3_4cmv3nger5
 
 # Level 3: SQL
 
